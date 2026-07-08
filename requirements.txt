@@ -1,0 +1,20 @@
+🔹 Core ML and Object Detection
+ultralytics>=8.3.0           # YOLOv8 engine for object detection & tracking
+torch>=2.2.0                 # PyTorch deep learning framework
+torchvision>=0.17.0          # Vision library for PyTorch models
+
+🔹 Computer Vision & Image Processing
+opencv-python>=4.9.0         # Video stream handling and frame processing
+numpy>=1.26.0                # Numerical computations
+pandas>=2.2.0                # Logging, reports, analytics
+matplotlib>=3.8.0            # Plots, charts, visual debugging
+scikit-learn>=1.4.0          # Model evaluation & metrics
+tqdm>=4.66.0                 # Progress visualization for loops
+joblib>=1.4.0                # Parallel processing utilities
+
+🔹 Dashboard & Visualization (For Final Integration)
+streamlit>=1.38.0            # Web dashboard for real-time monitoring
+plotly>=5.24.0               # Interactive charts and analytics
+
+🔹 Utility & Configuration Tools
+pyyaml>=6.0.1                # YAML configuration support
